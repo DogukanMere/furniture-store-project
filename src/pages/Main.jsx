@@ -62,7 +62,7 @@ const Main = () => {
           </div>
         </div>
       </div>
-      <div className='flex-[0.6] px-[2.5rem] py-[3.5rem] sm:px-[4rem] sm:pb-[7rem]'>
+      <div className='flex-[0.6] px-[2.5rem] py-[3.5rem] sm:px-[4rem] sm:pb-[5rem]'>
         <h2 className='text-black text-start text-[2.3rem] sm:text-[2.6rem] leading-[1] tracking-tighter font-semibold max-w-[20rem]'>
           Discover innovative ways to decorate
         </h2>

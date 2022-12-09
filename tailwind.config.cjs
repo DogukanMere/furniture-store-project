@@ -6,7 +6,7 @@ module.exports = {
   ],
   theme: {
     screens: {
-      'xs': '440',
+      'xs': '375px',
       // => @media (min-width: 440px) { ... }
       
       'sm': '640px',
@@ -34,6 +34,8 @@ module.exports = {
       'gray-dark': '#273444',
       'gray': '#8492a6',
       'gray-light': '#d3dce6',
+      'white':'#fff',
+      'dark': '#000',
     },
     fontFamily: {
       sans: ['League Spartan', 'sans-serif'],

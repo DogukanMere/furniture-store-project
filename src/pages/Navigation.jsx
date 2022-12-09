@@ -5,6 +5,7 @@ const Navigation = () => {
   return (
     <nav className='absolute top-[2rem] left-[1rem] z-[2] w-full'>
       <div className='flex relative justify-center sm:justify-start w-full'>
+        {/* Hamburger */}
         <div className='absolute left-[1rem] top-0 block sm:hidden text-white'>NavH</div>
         <div className='sm:mr-10 sm:ml-[4rem] ml-0'>
           <img src={logo} alt="logo" className=''/>
